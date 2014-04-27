@@ -5,14 +5,14 @@ module.exports =
 
     # Conference info
     conf:
-      name: "Conference name"
-      description: "Conference description"
-      date: "November 15"
-      price: "$100"
-      venue: "Coco Bongo"
-      address: "Boulevard Kukulcan, 30"
-      city: "Cancún"
-      state: "Quintana"
+      name: "V Boot"
+      description: "V Boot Unoesc Xanxerê"
+      date: "29,30,31 de Maio"
+      price: "R$ 50,00"
+      venue: "Anfiteatro da Unoesc"
+      address: "Unoesc Campus de Xanxere - Rua Dirceu Giordani - Jardim Tarumã, Xanxerê - SC"
+      city: "Xanxerê"
+      # state: "Santa Catarina"
 
     # Site info
     site:
@@ -30,18 +30,18 @@ module.exports =
       'schedule'
       'sponsors'
       'partners'
-      #'contact'
+      # 'contact'
     ]
 
     # Labels which you can translate to other languages
     labels:
-      about: "About"
-      location: "Location"
-      speakers: "Speakers"
-      schedule: "Schedule"
-      sponsors: "Sponsors"
-      partners: "Partners"
-      contact: "Contact"
+      about: "Sobre"
+      location: "Localização"
+      speakers: "Palestrantes"
+      schedule: "Agenda"
+      sponsors: "Apoiadores"
+      partners: "Patrocinadores"
+      # contact: "Contact"
 
     # The entire schedule
     schedule: [
