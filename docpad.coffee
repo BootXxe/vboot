@@ -12,7 +12,7 @@ module.exports =
       venue: "Anfiteatro da Unoesc"
       address: "Unoesc Campus de Xanxere - Rua Dirceu Giordani - Jardim Tarumã, Xanxerê - SC"
       city: "Xanxerê"
-      # state: "Santa Catarina"
+      state: "Santa Catarina"
 
     # Site info
     site:
