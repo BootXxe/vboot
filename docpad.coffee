@@ -28,7 +28,7 @@ module.exports =
       'location'
       'speakers'
       'schedule'
-      'sponsors'
+      #'sponsors'
       'partners'
       # 'contact'
     ]
@@ -45,32 +45,40 @@ module.exports =
 
     # The entire schedule
     schedule: [
-      name: "Check-in / Breakfast"
-      time: "9h00"
+      name: "Quinta-feira(29/05) - Recepção e abertura do evento"
+      time: "19h00"
     ,
-      name: "Linus Torvalds"
-      photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
+      name: "Sexta-feira(30/05) - Recepção e abertura do evento"
+      time: "19h00"
+    ,
+      name: "Paulo Trentin"
+      photo: "http://www.paulotrentin.com.br/wp-content/uploads/ngg_featured/Paulo%20trentin%20e%20placas%20do%20sistema.jpg"
       bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
       company: "Linux Foundation"
       twitter: "linus"
       presentation:
-        title: "Digging into a Linux Kernel"
+        title: "arduino e robotica"
         description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-        time: "10h00"
+        time: "19h30"
     ,
-      name: "Bill Gates"
+    
+      name: "Coffee break/Networking"
+      time: "20h45"
+    ,
+      name: "Eliezer Bernard"
       photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
       bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
       company: "Microsoft"
       twitter: "billy95"
       presentation:
-        title: "Introducing Windows 12"
+        title: "Conhecendo o Firefox OS"
         description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-        time: "11h00"
+        time: "21h00"
     ,
-      name: "Lunch"
-      time: "12h00"
+      name: "Encerramento"
+      time: "22h00"
     ,
+    
       name: "Chuck Norris"
       photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
       bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
@@ -124,9 +132,9 @@ module.exports =
 
     # List of Partners
     partners: [
-      name: "BrazilJS"
-      logo: "http://f.cl.ly/items/2N3i2W0X2f3c2g2Z2N0f/Untitled-1.png"
-      url: "http://braziljs.org"
+      name: "Unoesc"
+      logo: "http://www.unoesc.edu.br/images/front_end/logo_unoesc.jpg"
+      url: "http://www.unoesc.edu.br/"
     ]
 
     # Theme path
