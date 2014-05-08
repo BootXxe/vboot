@@ -45,19 +45,43 @@ module.exports =
 
     # The entire schedule
     schedule: [
-      name: "Quinta-feira(29/05) - Recepção e abertura do evento"
-      time: "19h00"
-    ,
-      name: "Sexta-feira(30/05) - Recepção e abertura do evento"
+      name: "Quinta-feira (29/05) - Recepção e abertura do evento"
       time: "19h00"
     ,
       name: "Paulo Trentin"
       photo: "http://www.paulotrentin.com.br/wp-content/uploads/ngg_featured/Paulo%20trentin%20e%20placas%20do%20sistema.jpg"
       bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+      company: "Microsoft"
+      twitter: "billy95"
+      presentation:
+        title: "Conhecendo o Firefox OS"
+        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+        time: "19h30"
+    ,
+      name: "Coffee break/Networking"
+      time: "20h45"
+    ,
+      name: "Edson Yanaga"
+      photo: "http://www.paulotrentin.com.br/wp-content/uploads/ngg_featured/Paulo%20trentin%20e%20placas%20do%20sistema.jpg"
+      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+      company: "Microsoft"
+      twitter: "billy95"
+      presentation:
+        title: "Código limpo"
+        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+        time: "21h00"
+    ,
+    
+      name: "Sexta-feira (30/05) - Recepção e abertura do evento"
+      time: "19h00"
+    ,
+      name: "Robocoice"
+      photo: "http://www.paulotrentin.com.br/wp-content/uploads/ngg_featured/Paulo%20trentin%20e%20placas%20do%20sistema.jpg"
+      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
       company: "Linux Foundation"
       twitter: "linus"
       presentation:
-        title: "arduino e robotica"
+        title: "Robocoice"
         description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
         time: "19h30"
     ,
@@ -79,48 +103,57 @@ module.exports =
       time: "22h00"
     ,
     
-      name: "Chuck Norris"
+      name: "Sábado (29/05) - Recepção e abertura do evento"
+      time: "08h30"
+    ,
+      name: "Andre Forchesatto"
       photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
       bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
       company: "Delta Command"
       twitter: "littlechuck"
       presentation:
-        title: "How to kill a elephant with one finger"
+        title: "Novidades do java 8"
         description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-        time: "13h00"
+        time: "09h00"
     ,
-      name: "Steve Jobs"
+      name: "Coffee break/Networking"
+      time: "10h00"
+    ,
+      name: "Camila Achutti"
       photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
       bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
       company: "Apple, Inc."
       twitter: "stevie"
       presentation:
-        title: "Presenting iPad"
+        title: "Vamos mudar o mundo com Mulheres, Software livre, empreendedorismo e programação!"
         description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-        time: "14h00"
+        time: "10h30"
     ,
-      name: "Coffee-break"
-      time: "15h00"
+      name: "Intervalo"
+      time: "12h00"
     ,
-      name: "Mark Zuckerberg"
+      name: "Jean Matheus Souto"
       photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
       bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
       company: "Facebook"
       twitter: "zuck"
       presentation:
-        title: "Revealing Facebook Secrets"
+        title: "Como criar um app milionário com Ruby"
         description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-        time: "16h00"
+        time: "13h30"
     ,
-      name: "Steve Wozniak"
+      name: "Coffee break/Networking"
+      time: "14h30"
+    ,
+      name: "Cristovão Schaavb e Natan Spricigo"
       photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
       bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
       company: "Apple, Inc."
       twitter: "woz"
       presentation:
-        title: "Why do I prefer Android over iPhone"
+        title: "Irrigasoft, a volta ao mundo, da Alemanha ao Brasil"
         description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-        time: "17h00"
+        time: "15h00"
     ]
 
     # List of Sponsors
