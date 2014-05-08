@@ -96,7 +96,7 @@ module.exports =
       twitter: "billy95"
       presentation:
         title: "Conhecendo o Firefox OS"
-        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+        description: "Imagine como seria se diferentes dispositivos pudessem ser inteiramente construídos baseados em tecnologias Open Web? Se o mesmo código que você utilizasse para a sua aplicação na rede pudesse ser redistribuído para uma plataforma móvel? O Firefox OS, traz exatamente isso! Transformando a Web em uma plataforma, dando mais poder aos dispositivos e as suas aplicações, e acima de tudo, ajudando a web ir mais longe! Junte-se a nós para conhecer um pouco mais sobre como o sistema operacional móvel da Mozilla funciona e o que torna ele tão especial."
         time: "21h00"
     ,
       name: "Encerramento"
@@ -126,7 +126,7 @@ module.exports =
       twitter: "stevie"
       presentation:
         title: "Vamos mudar o mundo com Mulheres, Software livre, empreendedorismo e programação!"
-        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+        description: "Será que as meninas não curtem mesmo computação, tecnologia e essas coisas? O Technovation Challenge é uma competição global que inspira meninas a se tornarem mais do que usuárias de tecnologia, buscando transformá-las em CRIADORAS e EMPREENDEDORAS. E ele é só mais uma prova de que com mais dedicação, mais software livre, mais mulheres na computação, mais iniciativa, menos preconceito e mais igualdade nos podemos mudar o mundo!"
         time: "10h30"
     ,
       name: "Intervalo"
