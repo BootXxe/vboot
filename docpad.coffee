@@ -91,7 +91,7 @@ module.exports =
     ,
       name: "Eliezer Bernard"
       photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+      bio: "Eliezer Bernart, estudante de Engenharia da Computação pela Universidade do Oeste de Santa Catarina - Unoesc, membro do Grupo de Usuários de Software Livre do Oeste de Santa Catarina - OeSC-Livre, contribuidor no Webplatform.org, participa do programa Firefox Student Ambassador, e atualmente é líder do Joaçaba Firefox Club, colaborando em diferentes projetos da Mozilla Foundation. Apaixonado por tecnologia, web e software livre."
       company: "Microsoft"
       twitter: "billy95"
       presentation:
@@ -121,7 +121,7 @@ module.exports =
     ,
       name: "Camila Achutti"
       photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+      bio: "Fundadora do blog Mulheres na Computação e Embaixadora do Technovation Challenge Brasil. Formada em Ciência da Computação pelo IME-USP estagiou no Google em Mountain View. Engenheira de software da Iridescent, uma ONG americana de ensino de tecnologia, que na verdade é muito mais do que isso. Ama empreendedorismo e tecnologia e sonha em mostrar o poder de transformação dessa dupla!"
       company: "Apple, Inc."
       twitter: "stevie"
       presentation:
