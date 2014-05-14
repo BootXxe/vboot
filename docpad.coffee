@@ -6,12 +6,12 @@ module.exports =
     # Conference info
     conf:
       name: "V Boot"
-      description: "V Boot Unoesc Xanxerê"
+      description: "V Boot Unoesc XanxerÃª"
       date: "29,30,31 de Maio"
       price: "R$ 50,00"
       venue: "Anfiteatro da Unoesc"
-      address: "Unoesc Campus de Xanxere - Rua Dirceu Giordani - Jardim Tarumã, Xanxerê - SC"
-      city: "Xanxerê"
+      address: "Unoesc Campus de Xanxere - Rua Dirceu Giordani - Jardim TarumÃ£, XanxerÃª - SC"
+      city: "XanxerÃª"
       # state: "Santa Catarina"
 
     # Site info
@@ -36,7 +36,7 @@ module.exports =
     # Labels which you can translate to other languages
     labels:
       about: "Sobre"
-      location: "Localização"
+      location: "LocalizaÃ§Ã£o"
       speakers: "Palestrantes"
       schedule: "Agenda"
       sponsors: "Apoiadores"
@@ -48,27 +48,28 @@ module.exports =
       name: "Quinta-feira (29/05) - Recepção e abertura do evento"
       time: "19h00"
     ,
-      name: "Paulo Trentin"
-      photo: "http://www.paulotrentin.com.br/wp-content/uploads/ngg_featured/Paulo%20trentin%20e%20placas%20do%20sistema.jpg"
-      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      company: "Microsoft"
-      twitter: "billy95"
+      name: "Paulo Marcos Trentin"
+      # photo: "http://www.paulotrentin.com.br/wp-content/uploads/ngg_featured/Paulo%20trentin%20e%20placas%20do%20sistema.jpg"
+      bio: "Trabalha com desenvolvimento de softwares para web usando tecnologias HTML5, é professor de cursos de Arduino em Videira e região. Graduado em  Ciência da Computação, é paixonado por programação e eletrônica. Dono  e mantedor do blog www.paulotrentin.com.br onde publica estudos com  eletrônica, programação e Arduino."
+      # company: "Microsoft"
+      # twitter: "billy95"
       presentation:
-        title: "Conhecendo o Firefox OS"
-        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+        title: "Arduino aplicado a sistemas de segurança residencial e aeromodelismo"
+        description: "Já parou para pensar o que pode ser feito com Arduino? As centrais domésticas de alarmes possuem vulnerabilidades interessantes, que tal então explorá-las com Arduino? E para aqueles que gostam de aeromodelismo iremos ver como montar um drone tendo o Arduino como principal dispositivo de controle mostrando o quão fácil é iniciar neste mundo que já é tendência para fotografia e monitoramento e aéreo."
         time: "19h30"
     ,
-      name: "Coffee break/Networking"
+      name: "Intervalo, bate-papo, coffee break"
       time: "20h45"
     ,
-      name: "Edson Yanaga"
-      photo: "http://www.paulotrentin.com.br/wp-content/uploads/ngg_featured/Paulo%20trentin%20e%20placas%20do%20sistema.jpg"
-      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      company: "Microsoft"
-      twitter: "billy95"
+
+      name: "Cristovão Schvaab e Natan Zaqeu Gaio Spricigo"
+      # photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
+      bio: "Cristovão Schvaab: Formado como Técnico Agrícola pelas escolas IAESC em Itapiranga SC e pela Europa Schule Rottenburg Wümme Alemanha. Bacharel em Ciência da Computação pela Unoesc Xanxerê, com aperfeiçoamento na área de sistemas embarcados na TU Kaiserslautern, em Kaiserslatern Alemanha. Natan Zaqeu Gaio Spricigo: Graduado em Ciência da Computação, formado em Técnico em Eletromecânica pelo Senai/SC. Trabalha atualmente como desenvolvedor Java, na Camtwo. Adora eletrônica e se dedica a conhecer e criar alternativas úteis."
+      # company: "Apple, Inc."
+      # twitter: "woz"
       presentation:
-        title: "Código limpo"
-        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+        title: "Irrigasoft - Irrigação utilizando Arduino"
+        description: "A água e um recurso natural cada vez mais escasso, cada vez mais se fala no melhor aproveitamento dos recursos hídricos, para isso a tecnologia pode dar uma ajuda, sobre isso que falaremos nessa palestra. O projeto consiste em automatizar a irrigação através de micro-controladores. Utilizamos como tecnologia principal o Arduino, que juntamente com alguns sensores realizarão o controle da irrigação. Este projeto foi iniciado no Brasil, mas foi finalizado e testado na Alemanha, na cidade de Kaiserslautern."
         time: "21h00"
     ,
     
@@ -76,84 +77,85 @@ module.exports =
       time: "19h00"
     ,
       name: "Robocoice"
-      photo: "http://www.paulotrentin.com.br/wp-content/uploads/ngg_featured/Paulo%20trentin%20e%20placas%20do%20sistema.jpg"
-      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      company: "Linux Foundation"
-      twitter: "linus"
+      # photo: "http://www.paulotrentin.com.br/wp-content/uploads/ngg_featured/Paulo%20trentin%20e%20placas%20do%20sistema.jpg"
+      bio: "Robocoice"
+      # company: "Linux Foundation"
+      # twitter: "linus"
       presentation:
         title: "Robocoice"
-        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-        time: "19h30"
+        description: "Robocoice"
+        time: "19h15"
     ,
     
-      name: "Coffee break/Networking"
+      name: "Intervalo, bate-papo, coffee break"
       time: "20h45"
     ,
-      name: "Eliezer Bernard"
-      photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-      bio: "Eliezer Bernart, estudante de Engenharia da Computação pela Universidade do Oeste de Santa Catarina - Unoesc, membro do Grupo de Usuários de Software Livre do Oeste de Santa Catarina - OeSC-Livre, contribuidor no Webplatform.org, participa do programa Firefox Student Ambassador, e atualmente é líder do Joaçaba Firefox Club, colaborando em diferentes projetos da Mozilla Foundation. Apaixonado por tecnologia, web e software livre."
-      company: "Microsoft"
-      twitter: "billy95"
+      name: "Eliezer Emanuel Bernart"
+      #photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
+      bio: "Estudante de Engenharia da Computação pela Universidade do Oeste de Santa Catarina - Unoesc, membro do Grupo de Usuários de Software Livre do Oeste de Santa Catarina - OeSC-Livre, contribuidor no Webplatform.org, participa do programa Firefox Student Ambassador, e atualmente é líder do Joaçaba Firefox Club, colaborando em diferentes projetos da Mozilla Foundation. Apaixonado por tecnologia, web e software livre."
+      #company: "Microsoft"
+      #twitter: "billy95"
       presentation:
-        title: "Conhecendo o Firefox OS"
+        title: "Palestra: Conhecendo o Firefox OS"
         description: "Imagine como seria se diferentes dispositivos pudessem ser inteiramente construídos baseados em tecnologias Open Web? Se o mesmo código que você utilizasse para a sua aplicação na rede pudesse ser redistribuído para uma plataforma móvel? O Firefox OS, traz exatamente isso! Transformando a Web em uma plataforma, dando mais poder aos dispositivos e as suas aplicações, e acima de tudo, ajudando a web ir mais longe! Junte-se a nós para conhecer um pouco mais sobre como o sistema operacional móvel da Mozilla funciona e o que torna ele tão especial."
         time: "21h00"
     ,
-      name: "Encerramento"
-      time: "22h00"
-    ,
     
       name: "Sábado (29/05) - Recepção e abertura do evento"
-      time: "08h30"
+      time: "08h00"
     ,
-      name: "Andre Forchesatto"
-      photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      company: "Delta Command"
-      twitter: "littlechuck"
+      name: "André Luiz Forchesatto"
+      #photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
+      bio: "Especialista em Ciência da Computação pela UFSC(Universidade Federal de Santa Catarina), professor do curso de Ciência da Computação e Tecnologia em Análise e Desenvolvimento de Sistemas da Unoesc (Universidade do Oeste de Santa Catarina), professor da Pós-Graduação em Java na UTFPR (Universidade Tecnológica Federal do Paraná). Desenvolvedor JEE desde 2004 com experiência em Spring, Hibernate e web. Sócio da empresa Camtwo Sistemas atuando como gerente de projetos e desenvolvedor Java."
+      # company: "Delta Command"
+      # twitter: "littlechuck"
       presentation:
-        title: "Novidades do java 8"
-        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-        time: "09h00"
+        title: "Novidades do Java 8"
+        description: "Este ano foi lançado a tão esperada versão 8 do Java com muitas inovações, nesta palestra irei abordar as principais novidades que estão fazendo mudarmos a maneira de programa em Java, como: Lambda, Streams, Nova API de Data. Muita conversa e código na prática."
+        time: "08h15"
     ,
-      name: "Coffee break/Networking"
-      time: "10h00"
+      name: "Intervalo, bate-papo, coffee break"
+      time: "09h45"
     ,
-      name: "Camila Achutti"
-      photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-      bio: "Fundadora do blog Mulheres na Computação e Embaixadora do Technovation Challenge Brasil. Formada em Ciência da Computação pelo IME-USP estagiou no Google em Mountain View. Engenheira de software da Iridescent, uma ONG americana de ensino de tecnologia, que na verdade é muito mais do que isso. Ama empreendedorismo e tecnologia e sonha em mostrar o poder de transformação dessa dupla!"
-      company: "Apple, Inc."
-      twitter: "stevie"
+      name: "Camila Fernandez Achutti"
+      #photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
+      bio: "Engenheira de Software da Iridescent, ONG americana de ensino e formação científica e tecnológica. Fundadora do blog Mulheres na Computação, Embaixadora do Technovation Challenge Brasil. Formada em Ciência da Computação pelo IME-USP estagiou no Google em Mountain View. Ama empreendedorismo e tecnologia e sonha em mostrar o poder de transformação dessa dupla!"
+      #company: "Apple, Inc."
+      #twitter: "stevie"
       presentation:
-        title: "Vamos mudar o mundo com Mulheres, Software livre, empreendedorismo e programação!"
-        description: "Será que as meninas não curtem mesmo computação, tecnologia e essas coisas? O Technovation Challenge é uma competição global que inspira meninas a se tornarem mais do que usuárias de tecnologia, buscando transformá-las em CRIADORAS e EMPREENDEDORAS. E ele é só mais uma prova de que com mais dedicação, mais software livre, mais mulheres na computação, mais iniciativa, menos preconceito e mais igualdade nos podemos mudar o mundo!"
-        time: "10h30"
+        title: "Vamos mudar o mundo com Mulheres, Software livre,empreendedorismo e programação!"
+        description: "Será que as meninas não curtem mesmo computação,tecnologia e essas coisas? O Technovation Challenge é uma competição global que inspira meninas a se tornarem mais do que usuárias de tecnologia, buscando transformá-las em CRIADORAS e EMPREENDEDORAS. E ele é só mais uma prova de que com mais dedicação, mais software livre, mais mulheres na computação, mais iniciativa, menos preconceito e mais igualdade nos podemos mudar o mundo!"
+        time: "10h00"
     ,
-      name: "Intervalo"
-      time: "12h00"
+      name: "Intervalo/Almoço"
+      time: "11h45"
     ,
-      name: "Jean Matheus Souto"
-      photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      company: "Facebook"
-      twitter: "zuck"
+      name: "Jackson Laskoski"
+      # photo: "http://www.paulotrentin.com.br/wp-content/uploads/ngg_featured/Paulo%20trentin%20e%20placas%20do%20sistema.jpg"
+      bio: "É especialista em Administração de Redes de Computadores e em Informática Aplicada ao Ambiente Empresarial. Atualmente é diretor técnico da ConexTI e do Sys Squad. É colaborador em vários sites e blogs, professor universitário em cursos de graduação e pós-graduação e membro atuante de vários grupos de usuários e projetos de tecnologia nacionais e internacionais."
+      # company: "Microsoft"
+      # twitter: "billy95"
       presentation:
-        title: "Como criar um app milionário com Ruby"
-        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+        title: "Privacidade & Vida Digital"
+        description: "Bate-papo descontraído sobre as relações humanas, políticas e comerciais sob a ótica do impacto da web 2.0 e de tudo que surgiu com ela. Serão abordados assuntos em voga atualmente como a Internet das Coisas, a exposição massiva da intimidade nas redes sociais, os casos de espionagem política e bélica, o Marco Civil da Internet no Brasil e muito mais…"
         time: "13h30"
     ,
-      name: "Coffee break/Networking"
-      time: "14h30"
+      name: "Intervalo, bate-papo, coffee break"
+      time: "14h45"
     ,
-      name: "Cristovão Schaavb e Natan Spricigo"
-      photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      company: "Apple, Inc."
-      twitter: "woz"
+      name: "Jean Matheus Souto"
+      # photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
+      bio: "Engenheiro de Software na Resultados Digitais em Florianópolis, bacharel em ciência da computação pela UNOESC Xanxerê, apaixonado por web, desenvolvimento de softwares,produtividade, testes automatizados, sempre em busca de novas tecnologias e novos desafios."
+      # company: "Facebook"
+      # twitter: "zuck"
       presentation:
-        title: "Irrigasoft, a volta ao mundo, da Alemanha ao Brasil"
-        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+        title: "Ruby, simples assim"
+        description: "Apresentar um novo mundo de possibilidades para se desenvolver aplicações e como é fácil e motivador apreender uma nova linguagem, novidades do Ruby, diferença entre as linguagens de mercado, produtividade dos frameworks ruby para construção de aplicações complexas."
         time: "15h00"
+    ,
+      name: "Intervalo, bate-papo, coffee break"
+      time: "16h45"
+    
     ]
 
     # List of Sponsors
