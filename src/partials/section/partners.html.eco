@@ -11,8 +11,12 @@
 </ul>
 
 <div style="text-align:center;">
-  <h5>Organizadores</h5>
-  <a href="">Jean Matheus Souto</a> |
-    <a href="">Natan</a> |
-    <a href="">Vitor</a>
+  <h5 style="margin:5px 0;">Organizadores</h5>
+  <a href="http://about.me/jeanmatheus">Jean Matheus Souto</a> |
+    <a href="">Natan Spricigo</a> |
+    <a href="">Vitor Zachi</a>
 </div>
+
+<a href="https://github.com/braziljs/conf-boilerplate" style="display:block;text-align:center; color:#232323;font-size:12px;margin-top:8px;">
+  Made with by Conf Boilerplate
+</a>

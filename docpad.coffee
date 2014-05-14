@@ -24,11 +24,11 @@ module.exports =
     # to deactivate comment out with '#'
     # you can also change order here and it will reflect on page
     sections: [
-      'about'
+      # 'about'
       'location'
       'speakers'
       'schedule'
-      'sponsors'
+      # 'sponsors'
       'partners'
       # 'contact'
     ]
@@ -72,12 +72,12 @@ module.exports =
         description: "A água e um recurso natural cada vez mais escasso, cada vez mais se fala no melhor aproveitamento dos recursos hídricos, para isso a tecnologia pode dar uma ajuda, sobre isso que falaremos nessa palestra. O projeto consiste em automatizar a irrigação através de micro-controladores. Utilizamos como tecnologia principal o Arduino, que juntamente com alguns sensores realizarão o controle da irrigação. Este projeto foi iniciado no Brasil, mas foi finalizado e testado na Alemanha, na cidade de Kaiserslautern."
         time: "21h00"
     ,
-    
+
       name: "Sexta-feira (30/05) - Recepção e abertura do evento"
       time: "19h00"
     ,
       name: "Robocoice"
-      photo: ""
+      photo: "https://scontent-a-gru.xx.fbcdn.net/hphotos-frc3/t1.0-9/1385630_357955037672557_1951759271_n.jpg"
       bio: "Robocoice"
       # company: "Linux Foundation"
       # twitter: "linus"
@@ -86,7 +86,7 @@ module.exports =
         description: "Robocoice"
         time: "19h15"
     ,
-    
+
       name: "Intervalo, bate-papo, coffee break"
       time: "20h45"
     ,
@@ -100,7 +100,7 @@ module.exports =
         description: "Imagine como seria se diferentes dispositivos pudessem ser inteiramente construídos baseados em tecnologias Open Web? Se o mesmo código que você utilizasse para a sua aplicação na rede pudesse ser redistribuído para uma plataforma móvel? O Firefox OS, traz exatamente isso! Transformando a Web em uma plataforma, dando mais poder aos dispositivos e as suas aplicações, e acima de tudo, ajudando a web ir mais longe! Junte-se a nós para conhecer um pouco mais sobre como o sistema operacional móvel da Mozilla funciona e o que torna ele tão especial."
         time: "21h00"
     ,
-    
+
       name: "Sábado (29/05) - Recepção e abertura do evento"
       time: "08h00"
     ,
@@ -155,7 +155,7 @@ module.exports =
     ,
       name: "Encerramento"
       time: "16h45"
-    
+
     ]
 
     # List of Sponsors
@@ -167,9 +167,13 @@ module.exports =
 
     # List of Partners
     partners: [
-      name: "Unoesc"
-      logo: "http://www.unoesc.edu.br/images/front_end/logo_unoesc.jpg"
-      url: "http://www.unoesc.edu.br/"
+        name: "Unoesc"
+        logo: "http://www.unoesc.edu.br/images/front_end/logo_unoesc.jpg"
+        url: "http://www.unoesc.edu.br/"
+      ,
+        name: "Camtwo"
+        logo: "http://www.camtwo.com.br/images/front_end/logo.png"
+        url: "http://www.camtwo.com.br/"
     ]
 
     # Theme path
