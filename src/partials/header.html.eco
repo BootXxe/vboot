@@ -7,7 +7,7 @@
     <h2 class="tagline"><%= @conf.date %>, <%= @conf.venue %>, <%= @conf.city %></h2>
     <div class="call-action-area">
       <span class="price"><%= @conf.price %></span>
-      <a href="http://eventick.com.br" class="call-action-link" title="Increva-se agora!">Increva-se agora!</a>
+      <a href="http://www.unoesc.edu.br/cursos/evento-single/v-boot" class="call-action-link" title="Increva-se agora!">Increva-se agora!</a>
     </div>
   </div>
 </header>
