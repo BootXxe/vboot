@@ -10,9 +10,9 @@ module.exports =
       date: "29,30,31 de Maio"
       price: ""
       venue: "Anfiteatro da Unoesc"
-      address: "Unoesc Campus de Xanxere - Rua Dirceu Giordani - Jardim Tarumã, Xanxeré - SC"
-      city: "Xanxeré"
-      # state: "Santa Catarina"
+      address: "Unoesc Campus de Xanxere - Rua Dirceu Giordani - Jardim Tarumã, Xanxerê - SC"
+      city: "Xanxerê"
+      state: "Santa Catarina"
 
     # Site info
     site:
