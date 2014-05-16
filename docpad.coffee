@@ -7,7 +7,7 @@ module.exports =
     conf:
       name: "V Boot"
       description: "V Boot Unoesc Xanxerê"
-      date: "29, 30,3 1 de Maio"
+      date: "29, 30, 31 de Maio"
       price: ""
       venue: "Anfiteatro da Unoesc"
       address: "Unoesc Campus de Xanxere - Rua Dirceu Giordani - Jardim Tarumã, Xanxerê - SC"
