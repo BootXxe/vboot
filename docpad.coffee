@@ -6,8 +6,8 @@ module.exports =
     # Conference info
     conf:
       name: "V Boot"
-      description: "V Boot Unoesc Xanxeré"
-      date: "29,30,31 de Maio"
+      description: "V Boot Unoesc Xanxerê"
+      date: "29, 30,3 1 de Maio"
       price: ""
       venue: "Anfiteatro da Unoesc"
       address: "Unoesc Campus de Xanxere - Rua Dirceu Giordani - Jardim Tarumã, Xanxerê - SC"
@@ -93,7 +93,7 @@ module.exports =
       name: "Eliezer Emanuel Bernart"
       photo: "https://pbs.twimg.com/profile_images/3751241779/36eb39a0b1cf6ffedffc7d796450a844.png"
       bio: "Estudante de Engenharia da Computação pela Universidade do Oeste de Santa Catarina - Unoesc, membro do Grupo de Usuários de Software Livre do Oeste de Santa Catarina - OeSC-Livre, contribuidor no Webplatform.org, participa do programa Firefox Student Ambassador, e atualmente é líder do Joaçaba Firefox Club, colaborando em diferentes projetos da Mozilla Foundation. Apaixonado por tecnologia, web e software livre."
-      company: "Firefox Club"
+      company: "Joaçaba Firefox Club"
       twitter: "eliezerbernart"
       presentation:
         title: "Palestra: Conhecendo o Firefox OS"
@@ -121,7 +121,7 @@ module.exports =
       photo: "http://bcc.ime.usp.br/principal/tccs/2013/camila/images/profile.jpg"
       bio: "Engenheira de Software da Iridescent, ONG americana de ensino e formação científica e tecnológica. Fundadora do blog Mulheres na Computação, Embaixadora do Technovation Challenge Brasil. Formada em Ciência da Computação pelo IME-USP estagiou no Google em Mountain View. Ama empreendedorismo e tecnologia e sonha em mostrar o poder de transformação dessa dupla!"
       company: "Iridescent"
-      #twitter: "stevie"
+      twitter: "CamilaAchutti"
       presentation:
         title: "Vamos mudar o mundo com Mulheres, Software livre,empreendedorismo e programação!"
         description: "Será que as meninas não curtem mesmo computação,tecnologia e essas coisas? O Technovation Challenge é uma competição global que inspira meninas a se tornarem mais do que usuárias de tecnologia, buscando transformá-las em CRIADORAS e EMPREENDEDORAS. E ele é só mais uma prova de que com mais dedicação, mais software livre, mais mulheres na computação, mais iniciativa, menos preconceito e mais igualdade nos podemos mudar o mundo!"
